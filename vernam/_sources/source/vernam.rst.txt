@@ -1,0 +1,22 @@
+vernam package
+==============
+
+Submodules
+----------
+
+vernam\.py\_vernam module
+-------------------------
+
+.. automodule:: vernam.py_vernam
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: vernam
+    :members:
+    :undoc-members:
+    :show-inheritance:
